@@ -40,7 +40,7 @@ int main(void)
                         if(b != 0)
                             printf("%.2f\n\n", a / b);
                         else
-                            printf("Nao existe divisao por 0\n\n");
+                            printf("Não existe divisão por 0\n");
                         break;
 
                 case '%':
